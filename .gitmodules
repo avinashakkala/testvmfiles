@@ -1,3 +1,9 @@
 [submodule "submodule"]
 	path = submodule
 	url = ./submodule
+[submodule "modules/submoudle1"]
+	path = modules/submoudle1
+	url = https://github.com/avinashakkala/testingsubmodule.git
+[submodule "moduletestotherrepo/secondrepo2"]
+	path = moduletestotherrepo/secondrepo2
+	url = https://github.com/avinashakkala/testingsubmodule.git
